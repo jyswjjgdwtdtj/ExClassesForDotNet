@@ -1,0 +1,6 @@
+C:\Users\liboyuan\source\repos\ExClasses\ExClasses\obj\Debug\ExClasses.csproj.AssemblyReference.cache
+C:\Users\liboyuan\source\repos\ExClasses\ExClasses\obj\Debug\ExClasses.csproj.CoreCompileInputs.cache
+C:\Users\liboyuan\source\repos\ExClasses\ExClasses\bin\Debug\ExClasses.pdb
+C:\Users\liboyuan\source\repos\ExClasses\ExClasses\obj\Debug\ExClasses.pdb
+C:\Users\liboyuan\source\repos\ExClasses\ExClasses\bin\Debug\ExClasses.dll
+C:\Users\liboyuan\source\repos\ExClasses\ExClasses\obj\Debug\ExClasses.dll
